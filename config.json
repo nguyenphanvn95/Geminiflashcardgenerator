@@ -1,0 +1,5 @@
+{
+  "enabled": false,
+  "api_key": "API_KEY_GEMINI",
+  "model": "gemini-2.0-flash"
+}
