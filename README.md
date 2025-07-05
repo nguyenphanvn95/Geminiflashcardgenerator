@@ -73,4 +73,8 @@ Hint: i_____t
 - Addon **không lưu API Key lên mạng**, chỉ lưu cục bộ trên máy.
 - Nên sử dụng tài khoản phụ để lấy API Key vì quota giới hạn.
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 7e7f08166ced9192b74a38eb4e535844d27a1f10
